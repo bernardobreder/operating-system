@@ -1,0 +1,1 @@
+watch -d "g++ src/*.c* -o Debug/main ; ./Debug/main"
